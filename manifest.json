@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-update-spent-time",
+	"name": "Update Spent Time",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "Updates spent time for the note by reading time recorded via simple time tracker plugin.",
+	"author": "deividaspetraitis",
+	"authorUrl": "https://github.com/deividaspetraitis",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
